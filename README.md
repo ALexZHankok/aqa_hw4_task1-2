@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/9f4oyn9qs63nmusw/branch/main?svg=true)](https://ci.appveyor.com/project/ALexZHankok/aqa-hw4-task1-2/branch/main)
